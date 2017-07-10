@@ -1,4 +1,4 @@
-# design-resource
+# design-resource 设计资源
 
 A list of tools & resources for designers.
 
